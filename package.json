@@ -1,0 +1,23 @@
+{
+  "name": "@dilums/musical-eureka",
+  "version": "1.0.0",
+  "description": "simple NPM test",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dilums/musical-eureka.git"
+  },
+  "keywords": [
+    "npm",
+    "test"
+  ],
+  "author": "Dilum Sanjaya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dilums/musical-eureka/issues"
+  },
+  "homepage": "https://github.com/dilums/musical-eureka#readme"
+}
